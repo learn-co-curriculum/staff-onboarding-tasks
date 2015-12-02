@@ -9,3 +9,5 @@
 - [Memorize various codes](https://flatiron.atlassian.net/wiki/display/ER/11+Broadway+resources).
 
 - Organize a fun event for employees! Read our [policy](https://flatiron.atlassian.net/wiki/display/ER/Expense+Reimbursement+for+Company+Related+Spending+and+Purchasing+Policy).
+
+<a href='https://learn.co/lessons/staff-onboarding-tasks-irl' data-visibility='hidden'>View this lesson on Learn.co</a>
