@@ -6,7 +6,7 @@
 
 - **Get a building access card for 11 Broadway (Tuesdays only).** Building access cards for 11 Broadway can only be obtained at the security desk in the lobby from 10:30-11:00am on Tuesdays. Get a form from Mike Linshi.
 
-- [Memorize various codes](https://flatiron.atlassian.net/wiki/display/ER/11+Broadway+resources).
+- [Memorize various codes and read about security and visitors](https://flatiron.atlassian.net/wiki/display/OP/Security+and+Visitors).
 
 - Organize a fun event for employees! Read our [policy](https://flatiron.atlassian.net/wiki/display/ER/Expense+Reimbursement+for+Company+Related+Spending+and+Purchasing+Policy).
 
