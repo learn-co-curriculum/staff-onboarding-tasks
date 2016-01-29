@@ -10,4 +10,4 @@
 
 - Organize a fun event for employees! Read our [policy](https://flatiron.atlassian.net/wiki/display/ER/Expense+Reimbursement+for+Company+Related+Spending+and+Purchasing+Policy).
 
-<a href='https://learn.co/lessons/staff-onboarding-tasks-irl' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/staff-onboarding-tasks-irl' title='Things to do in real life (~15-30 minutes)'>Things to do in real life (~15-30 minutes)</a> on Learn.co and start learning to code for free.</p>
