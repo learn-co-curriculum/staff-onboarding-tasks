@@ -1,10 +1,10 @@
 # Things to do in real life (~15-30 minutes)
 
-- **Get some swag.** Introduce yourself to Julian Shapiro (Campus Manager), and ask him for some swag! We have t-shirts and stickers.
+- **Get some swag.** Introduce yourself to Julian Shapiro (Campus Manager), and ask him for some swag! We have t-shirts, sweatshirts (coming soon) and stickers.
 
-- **Sign up for gym benefit (only if you want to).** Flatiron School offers a membership to NY Health and Racquet Club. There are 9 locations in NYC, including one a few blocks away from 11 Broadway. If you'd like a membership, get a form from Mike Linshi and bring it to the Whitehall St location. Flatiron School will pay NYHRC directly, so there is no reimbursement process involved.
+- **Sign up for gym benefit (only if you want to).** Flatiron School offers a membership to NY Health and Racquet Club. There are 9 locations in NYC, including one a few blocks away from 11 Broadway. If you'd like a membership, get a form from Sarah Fox and bring it to the Whitehall St location. Flatiron School will pay NYHRC directly, so there is no reimbursement process involved.
 
-- **Get a building access card for 11 Broadway (Tuesdays only).** Building access cards for 11 Broadway can only be obtained at the security desk in the lobby from 10:30-11:00am on Tuesdays. Get a form from Mike Linshi.
+- **Get a building access card for 11 Broadway (Tuesdays only).** Building access cards for 11 Broadway can only be obtained at the security desk in the lobby from 10:30-11:00am on Tuesdays. Get a form from Sarah Fox.
 
 - [Memorize various codes and read about security and visitors](https://flatiron.atlassian.net/wiki/display/OP/Security+and+Visitors).
 
