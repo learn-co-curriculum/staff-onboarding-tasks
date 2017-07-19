@@ -10,7 +10,6 @@
 
 - [Memorize various codes and read about security and visitors](https://flatiron.atlassian.net/wiki/display/OP/Security+and+Visitors).
 
-(https://flatiron.atlassian.net/wiki/display/ER/Expense+Reimbursement+for+Company+Related+Spending+and+Purchasing+Policy).
 
 <a href='https://learn.co/lessons/staff-onboarding-tasks-irl' data-visibility='hidden'>View this lesson on Learn.co</a>
 
