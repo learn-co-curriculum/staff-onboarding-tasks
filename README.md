@@ -1,6 +1,6 @@
 # Things to do in real life
 
-- **Take a campus tour.** You'll probably walk around when you're onboarding, but make sure to talk a roundabout campus and check out where our classrooms are, where to find supplies, and what a Borg is :) 
+- **Take a campus tour.** You'll probably walk around when you're onboarding, but make sure to talk a roundabout campus and check out where our classrooms are, where to find supplies, and what Borg is :) 
 
 
 - **Get some swag.** Introduce yourself to Julian Shapiro (Campus Manager), and ask him for some swag! We have t-shirts, sweatshirts and stickers. Go see what's in stock for you :)
